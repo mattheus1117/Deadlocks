@@ -48,6 +48,6 @@ Este projeto em C++ simula um sistema de controle de concorrência com múltipla
 
 Compile e execute o programa com:
 
-g++ -std=c++17 main.cpp -o simulador -lpthread
+- `g++ -std=c++17 main.cpp -o simulador -lpthread`
 
-./simulador
+- `./simulador` 
